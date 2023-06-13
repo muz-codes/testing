@@ -1,4 +1,5 @@
-let muzamilVar = 'Muzamil';
-let Tayyab = 'Tayyab';
-let Roman = 'Roman';
-let haris = 'Muhammad Haris';
+let muqadas = "Muqadas";
+let muzamilVar = "Muzamil";
+let Tayyab = "Tayyab";
+let Roman = "Roman";
+let haris = "Muhammad Haris";
