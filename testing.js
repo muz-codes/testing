@@ -1,3 +1,4 @@
+let maria = "maria rashid"
 let muqadas = "Muqadas";
 let muzamilVar = "Muzamil";
 let Tayyab = "Tayyab";
